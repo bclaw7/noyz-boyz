@@ -23,7 +23,7 @@ export default function Home() {
           variant='outline-info'
           size='lg'
           className='fs-2'>
-          The Best Sound
+          Get The Best Sound
         </Button>
       </Container>
     </div>
